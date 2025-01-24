@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/RuslanUsman.github.io/testap/static/css/main.f855e6bc.css",
+    "main.js": "/RuslanUsman.github.io/testap/static/js/main.072b5dc6.js",
+    "static/media/logo.svg": "/RuslanUsman.github.io/testap/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RuslanUsman.github.io/testap/index.html",
+    "main.f855e6bc.css.map": "/RuslanUsman.github.io/testap/static/css/main.f855e6bc.css.map",
+    "main.072b5dc6.js.map": "/RuslanUsman.github.io/testap/static/js/main.072b5dc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.072b5dc6.js"
+  ]
+}
